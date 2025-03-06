@@ -1,4 +1,8 @@
 Console.WriteLine("Muhammad Haseeb 24-ST-090");
 int a;
 int b;
+ multiplication
 int multiplication a*b;
+
+int division a/b;
+ division
